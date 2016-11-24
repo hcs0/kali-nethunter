@@ -13,6 +13,7 @@ Pwnie Express is also another alternative to Nethunter.
 * Add Radare2 via git clone (https://github.com/radare/radare2) not apt-get
 * Try out the material design UI (via @maijin212)
 * ```r2 -A -c=H /bin/ls and then go on http://localhost:9090/ ```
+* You can also get Radare2 on Android (https://play.google.com/store/apps/details?id=org.radare.radare2installer)
 
 
 **Exploit Database/Searchsploit**
