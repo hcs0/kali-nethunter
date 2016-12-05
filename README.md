@@ -5,6 +5,9 @@ View the [Kali Nethunter repo](https://github.com/offensive-security/kali-nethun
 
 Pwnie Express is also another alternative to Nethunter.
 
+##Official Instructions##
+Please see https://github.com/offensive-security/kali-nethunter/wiki
+
 ---
 
 ##New tools##
@@ -15,11 +18,8 @@ Pwnie Express is also another alternative to Nethunter.
 * ```r2 -A -c=H /bin/ls and then go on http://localhost:9090/ ```
 * You can also get Radare2 on Android (https://play.google.com/store/apps/details?id=org.radare.radare2installer)
 
-
 **Exploit Database/Searchsploit**
 * Add exloitdb/sploitsearch via git clone (https://github.com/offensive-security/exploit-database)
-
-More to check out soon.
 
 ---
 
@@ -41,6 +41,11 @@ Wireless attacks
 
 Maintaining access
 * dbd
+
+---
+
+##List of things to do/try##
+* 
 
 ---
 
