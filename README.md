@@ -1,4 +1,5 @@
-##Initial Notes##
+## Initial Notes
+
 The following are my general notes about Nexus 5 (Lollipop) on Nethunter, mainly around the tools, set up, etc.  So far I've looked at the list of tools on http://tools.kali.org/tools-listing but also looking into what else can be done on here.  More info at https://www.offensive-security.com/kali-linux-nethunter-download/
 
 View the [Kali Nethunter repo](https://github.com/offensive-security/kali-nethunter)
@@ -10,7 +11,7 @@ Please see https://github.com/offensive-security/kali-nethunter/wiki
 
 ---
 
-##New tools##
+## New tools
 
 **Radare2**
 * Add Radare2 via git clone (https://github.com/radare/radare2) not apt-get
@@ -23,7 +24,7 @@ Please see https://github.com/offensive-security/kali-nethunter/wiki
 
 ---
 
-##Others available but not visible in the menu##
+## Others available but not visible in the menu
 
 Information Gathering
 * nmap 
@@ -41,11 +42,6 @@ Wireless attacks
 
 Maintaining access
 * dbd
-
----
-
-##List of things to do/try##
-* 
 
 ---
 
