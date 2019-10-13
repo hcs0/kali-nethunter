@@ -1,4 +1,5 @@
 ## Initial Notes
+### This repository is no longer updated.
 
 The following are my general notes about Nexus 5 (Lollipop) on Nethunter, mainly around the tools, set up, etc.  So far I've looked at the list of tools on http://tools.kali.org/tools-listing but also looking into what else can be done on here.  More info at https://www.offensive-security.com/kali-linux-nethunter-download/
 
